@@ -1,3 +1,3 @@
-# Capsicum-genomics
+### our collection 
 
-This is the repository for our data 
+![map](img/panel1.png)
