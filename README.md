@@ -1,8 +1,8 @@
 ### The *Capsicum* collection 
 *Capsicum* is one of the major vegetable crops grown world-wide. 
-This website contains information on an exciting project on the genetics of *Capsicum*.  
+This website contains information on an exciting project on the genetics of *Capsicum*.   
 
-[Check the preprint on![### Check the preprint on bioRxiv !!](https://pbs.twimg.com/profile_images/956882186996662272/lwyH1HFe_400x400.jpg)](https://www.biorxiv.org/content/early/2018/12/04/487165)
+* Check the preprint on!* [ Check the preprint on bioRxiv !!](img/biorxiv_log.jpg)](https://www.biorxiv.org/content/early/2018/12/04/487165)
 
 ![map](img/panel1.png)
 
