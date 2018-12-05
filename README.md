@@ -1,14 +1,10 @@
-### our collection 
+### The *Capsicum* collection 
 
 ![map](img/panel1.png)
 
 
-
-### Genomic diversity of the *Capsicum* genus at 746k variable sites.
-
 **Summary of the sample used in this study.**
 
- A species was included in a specific analysis based on the number of accessions avaiable. Horizontal lines mark clusters of species used in different analyses.
 
 |           Species           | # of diploid accessions  |     Type     |
 |:---------------------------:|:------------------------:|:------------:|
@@ -25,6 +21,10 @@
 |         *C.eximium*         |             1            |     wild     |
 
 
+### Genomic diversity of the *Capsicum* genus at 746k variable sites.
+We discovered 746k variable sites by sequencing 1.8\% of the genome in a collection of 373 accessions belonging to 11 *Capsicum* species from 51 countries. 
+
+| ![map](img/panel1.png) | The majority of variants is single nucleotide polymorphisms (SNP), followed multi-nucleotide polymorphisms (MNP) and insertions/deletion (INDEL). A very small fraction of variants is complex combinations of SNP, MNP, and INDEL. QUAL>10 refers to Phred-scaled quality scores.| 
 
 
 ### Population structure of *Capsicum* reveals strong subdivisions with little or no admixiture among species.
