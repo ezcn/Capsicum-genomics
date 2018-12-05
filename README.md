@@ -2,7 +2,7 @@
 *Capsicum* is one of the major vegetable crops grown world-wide. 
 This website contains information on an exciting project on the genetics of *Capsicum*.  
 
-[![### Check the preprint on bioRxiv !!](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjPxanV4IjfAhUvsKQKHbCJD3EQjRx6BAgBEAU&url=http%3A%2F%2Fwww.enago.com%2Facademy%2Fkr%2Famp%2Fb2j-a-new-submission-route-for-biorxiv&psig=AOvVaw3Q7BtwSmtiZkUDGCxtTXIC&ust=1544101327717898)](https://www.biorxiv.org/content/early/2018/12/04/487165)
+[![### Check the preprint on bioRxiv !!](https://www.cshl.edu/wp-content/uploads/2018/02/bioarchive-logo.png)](https://www.biorxiv.org/content/early/2018/12/04/487165)
 
 ![map](img/panel1.png)
 
