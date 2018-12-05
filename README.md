@@ -1,7 +1,8 @@
 ### The *Capsicum* collection 
- Capsicum is one of the major vegetable crops grown world-wide. 
-This website contains information on an exciting project on the genetics of *Capsicum*.
-[Check the preprint on bioRxiv !!](https://www.biorxiv.org/content/early/2018/12/04/487165)
+*Capsicum* is one of the major vegetable crops grown world-wide. 
+This website contains information on an exciting project on the genetics of *Capsicum*.  
+### Check the preprint on bioRxiv !!  
+[![logo di biorvix][https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjPxanV4IjfAhUvsKQKHbCJD3EQjRx6BAgBEAU&url=http%3A%2F%2Fwww.enago.com%2Facademy%2Fkr%2Famp%2Fb2j-a-new-submission-route-for-biorxiv&psig=AOvVaw3Q7BtwSmtiZkUDGCxtTXIC&ust=1544101327717898]][https://www.biorxiv.org/content/early/2018/12/04/487165]
 
 ![map](img/panel1.png)
 
@@ -27,10 +28,11 @@ This website contains information on an exciting project on the genetics of *Cap
 
 
 ### Genomic diversity of the *Capsicum* genus at 746k variable sites.
-We discovered 746k variable sites by sequencing 1.8\% of the genome in a collection of 373 accessions belonging to 11 *Capsicum* species from 51 countries. 
+We discovered 746k variable sites by sequencing 1.8% of the genome in a collection of 373 accessions belonging to 11 *Capsicum* species from 51 countries. 
 
 The majority of variants is single nucleotide polymorphisms (SNP), followed multi-nucleotide polymorphisms (MNP) and insertions/deletion (INDEL). A very small fraction of variants is complex combinations of SNP, MNP, and INDEL. QUAL>10 refers to Phred-scaled quality scores.
 
+![map](img/varianttype.png)
 
 ### Population structure of *Capsicum* reveals strong subdivisions with little or no admixiture among species.
 
@@ -41,24 +43,25 @@ b)Principal component analysis. The first two components separate the three main
 c)Model based admixture analysis in the hypothesis of seven clusters. With the exceptions of few admixed or misplaced individuals, clusters to corrispond to species and within *C. annuum* is possible to observe two groups with distinct genetic features.
   
 
-![Figure 3]()
+![Figure 3](img/panel3.png)
 
 ### Insight into *C. annuum* fruit variability from high resolution phenotyping.
+
 Fruits broad variability has been driven by breeding programs and has been mainly studied by linkage analysis. 
-We carried out phenotyping of the 220 accessions of \textit{C. annuum} at thirty-eight phenotypic traits (Figure \ref{fig:cover}), in order to describe and understand the range of variation of \textit{C. annum} fruits.
+We carried out phenotyping of the 220 accessions of *C. annuum* at thirty-eight phenotypic traits, in order to describe and understand the range of variation of *C. annum* fruits.
 
 **Graphic rapresentation of the phenotypes measured.**
 
-![Figure 4]()
+![Figure 4](img/pre-panel4.png)
 
 **Bulky and large peppers are genetically differnet from small ones **
 
-Subdivision within \textit{C. annuum} accessions into two clusters (Figure \ref{fig:popstucture}c) is associated with significant differences in  four traits related to fruit size 
+Subdivision within *C. annuum* accessions into two clusters is associated with significant differences in  four traits related to fruit size 
 
-FIGURA 
+![Figure 4](img/pre-panel4.png)
 
 
-Accessions from \textit{C. annuum} were assigned to genetic clusters determined in the admixture analysis if membership to the cluster was $>$90\%. Of the 38 traits, \textsc{Area}, \textsc{MaximumWidth}, \textsc{WidthMidHeight}, and \textsc{Perimeter} are significantly different between the two genetic clusters (Figure \ref{fig:pheno}c).Fruit size is significantly different between the two genetic clusters, with Cluster 1 having bulkier and larger fruits relative to Cluster 2. This suggests that differences in fruit size in \textit{C. annuum} might be caused by genetic differences. 
+Accessions from *C. annuum* were assigned to genetic clusters determined in the admixture analysis if membership to the cluster was $>$90\%. Of the 38 traits, \textsc{Area}, \textsc{MaximumWidth}, \textsc{WidthMidHeight}, and \textsc{Perimeter} are significantly different between the two genetic clusters (Figure \ref{fig:pheno}c).Fruit size is significantly different between the two genetic clusters, with Cluster 1 having bulkier and larger fruits relative to Cluster 2. This suggests that differences in fruit size in \textit{C. annuum} might be caused by genetic differences. 
 
 
 ### Genetics of fruit in *C. annuum*.
@@ -69,8 +72,7 @@ a)We identified eight variants at four loci on three chromosomes, significant as
 b)Cluster of phenotype determining whether fruits are pointed or squared.
 c)Cluster of phenotypes determining if fruits are circular or elongated.
 
-![Figure 6]()
-
+![Figure 6](img/panel6.png)
 
 
 **Loci significantly associated with phenotypes related to fruit shape with genome-wide significance.**
@@ -97,16 +99,16 @@ Min/Maj = minor and major alleles; MAF = Minor Allele Frequency; β = Coefficien
 
 ### A non-synonymous change in the *Longifolia 1-like* gene is associated with variance in *C. annuum* fruit elongation
 
-**{The \textit{Longifolia 1-like } gene region.**
+**The *Longifolia 1-like* gene region.**
 
 a)Locus zoom plot in a region of ±2Mb surrounding the non-synonymous mutation (3:183386147) in the gene *Longifolia 1-like* (CA03g16080) showing that the 3:183386147 variant is the only one reaching a genome-wide significant thereshold for genetic association in a region containing twenty-six genes. Color gradient indicate linkage desequilibrium mesuared ad r².
 b)The predict genic structure of *Langifolia 1-like* (CA03g16080).
 c)Predict protein structure for *Langifolia 1-like*.
  
-![Figure 7]()
+![Figure 7](img/panel7.png)
 
-**Table 3.**
-{Allele frequencies at the single nucleotide polymorphism 3:18338614 in \textit{Capsicum} species. Numbers in parentheses indicate haploid sample size.
+**Allele frequencies at the single nucleotide polymorphism 3:18338614 in *Capsicum* species.**
+ Numbers in parentheses indicate haploid sample size.
 
 |     Species (n)    | CTC (Leu) | TTC (Phe) |
 |:------------------:|-----------|-----------|
