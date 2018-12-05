@@ -1,9 +1,12 @@
 ### The *Capsicum* collection 
+ Capsicum is one of the major vegetable crops grown world-wide. 
+This website contains information on an exciting project on the genetics of *Capsicum*.
+[Check the preprint on bioRxiv !!](https://www.biorxiv.org/content/early/2018/12/04/487165)
 
 ![map](img/panel1.png)
 
 
-**Summary of the sample used in this study.**
+**Samples Summary**
 
 
 |           Species           | # of diploid accessions  |     Type     |
@@ -21,10 +24,12 @@
 |         *C.eximium*         |             1            |     wild     |
 
 
+
+
 ### Genomic diversity of the *Capsicum* genus at 746k variable sites.
 We discovered 746k variable sites by sequencing 1.8\% of the genome in a collection of 373 accessions belonging to 11 *Capsicum* species from 51 countries. 
 
-| ![map](img/panel1.png) | The majority of variants is single nucleotide polymorphisms (SNP), followed multi-nucleotide polymorphisms (MNP) and insertions/deletion (INDEL). A very small fraction of variants is complex combinations of SNP, MNP, and INDEL. QUAL>10 refers to Phred-scaled quality scores.| 
+The majority of variants is single nucleotide polymorphisms (SNP), followed multi-nucleotide polymorphisms (MNP) and insertions/deletion (INDEL). A very small fraction of variants is complex combinations of SNP, MNP, and INDEL. QUAL>10 refers to Phred-scaled quality scores.
 
 
 ### Population structure of *Capsicum* reveals strong subdivisions with little or no admixiture among species.
@@ -38,15 +43,23 @@ c)Model based admixture analysis in the hypothesis of seven clusters. With the e
 
 ![Figure 3]()
 
-### In sight into *C. annuum* fruit variability from high resolution phenotyping.
+### Insight into *C. annuum* fruit variability from high resolution phenotyping.
+Fruits broad variability has been driven by breeding programs and has been mainly studied by linkage analysis. 
+We carried out phenotyping of the 220 accessions of \textit{C. annuum} at thirty-eight phenotypic traits (Figure \ref{fig:cover}), in order to describe and understand the range of variation of \textit{C. annum} fruits.
 
 **Graphic rapresentation of the phenotypes measured.**
 
 ![Figure 4]()
 
-**Figure 5.**
+**Bulky and large peppers are genetically differnet from small ones **
 
-![Figure 5]()
+Subdivision within \textit{C. annuum} accessions into two clusters (Figure \ref{fig:popstucture}c) is associated with significant differences in  four traits related to fruit size 
+
+FIGURA 
+
+
+Accessions from \textit{C. annuum} were assigned to genetic clusters determined in the admixture analysis if membership to the cluster was $>$90\%. Of the 38 traits, \textsc{Area}, \textsc{MaximumWidth}, \textsc{WidthMidHeight}, and \textsc{Perimeter} are significantly different between the two genetic clusters (Figure \ref{fig:pheno}c).Fruit size is significantly different between the two genetic clusters, with Cluster 1 having bulkier and larger fruits relative to Cluster 2. This suggests that differences in fruit size in \textit{C. annuum} might be caused by genetic differences. 
+
 
 ### Genetics of fruit in *C. annuum*.
 
@@ -84,7 +97,7 @@ Min/Maj = minor and major alleles; MAF = Minor Allele Frequency; β = Coefficien
 
 ### A non-synonymous change in the *Longifolia 1-like* gene is associated with variance in *C. annuum* fruit elongation
 
-**Figure 7.**
+**{The \textit{Longifolia 1-like } gene region.**
 
 a)Locus zoom plot in a region of ±2Mb surrounding the non-synonymous mutation (3:183386147) in the gene *Longifolia 1-like* (CA03g16080) showing that the 3:183386147 variant is the only one reaching a genome-wide significant thereshold for genetic association in a region containing twenty-six genes. Color gradient indicate linkage desequilibrium mesuared ad r².
 b)The predict genic structure of *Langifolia 1-like* (CA03g16080).
@@ -93,6 +106,7 @@ c)Predict protein structure for *Langifolia 1-like*.
 ![Figure 7]()
 
 **Table 3.**
+{Allele frequencies at the single nucleotide polymorphism 3:18338614 in \textit{Capsicum} species. Numbers in parentheses indicate haploid sample size.
 
 |     Species (n)    | CTC (Leu) | TTC (Phe) |
 |:------------------:|-----------|-----------|
