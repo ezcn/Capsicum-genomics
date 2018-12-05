@@ -12,17 +12,17 @@
 
 |           Species           | # of diploid accessions  |     Type     |
 |:---------------------------:|:------------------------:|:------------:|
-|          C. annuum          |            220           | domesticated |
-|         C. chinense         |            62            | domesticated |
-|  C. baccatum (varpendulum)  |            39            | domesticated |
-|        C. frutescens        |            14            | domesticated |
-|         C. chacoense        |            13            |     wild     |
-|         C.pubescens         |            13            | domesticated |
-| C. annuum var glabriusculum |             5            |     wild     |
-|       C. praetermissum      |             3            |     wild     |
-|   C. baccatum var baccatum  |             2            | domesticated |
-|       C. galapagoense       |             1            |     wild     |
-|          C.eximium          |             1            |     wild     |
+|         *C. annuum*         |            220           | domesticated |
+|        *C. chinense*        |            62            | domesticated |
+| *C. baccatum (varpendulum)* |            39            | domesticated |
+|       *C. frutescens*       |            14            | domesticated |
+|        *C. chacoense*       |            13            |     wild     |
+|        *C.pubescens*        |            13            | domesticated |
+|*C. annuum var glabriusculum*|             5            |     wild     |
+|      *C. praetermissum*     |             3            |     wild     |
+|  *C. baccatum var baccatum* |             2            | domesticated |
+|      *C. galapagoense*      |             1            |     wild     |
+|         *C.eximium*         |             1            |     wild     |
 
 
 
@@ -96,9 +96,9 @@ c)Predict protein structure for *Langifolia 1-like*.
 
 |     Species (n)    | CTC (Leu) | TTC (Phe) |
 |:------------------:|-----------|-----------|
-|   C.annuum (412)   |    0.23   |    0.76   |
-| C. frutescens (28) |    0.02   |    0.98   |
-|  C. chinense (90)  |    0.03   |    0.97   |
-|  C. baccatum (72)  |     0     |     1     |
-|  C. chacoense (26) |     0     |     1     |
-|  C. pubescens (26) |     0     |     1     |
+| *C. annuum (412)*  |    0.23   |    0.76   |
+|*C. frutescens (28)*|    0.02   |    0.98   |
+| *C. chinense (90)* |    0.03   |    0.97   |
+| *C. baccatum (72)* |     0     |     1     |
+| *C. chacoense (26)*|     0     |     1     |
+| *C. pubescens (26)*|     0     |     1     |
