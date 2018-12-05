@@ -2,7 +2,7 @@
 *Capsicum* is one of the major vegetable crops grown world-wide. 
 This website contains information on an exciting project on the genetics of *Capsicum*.  
 
-[![### Check the preprint on bioRxiv !!](https://www.cshl.edu/wp-content/uploads/2018/02/bioarchive-logo.png)](https://www.biorxiv.org/content/early/2018/12/04/487165)
+[![### Check the preprint on bioRxiv !!](https://pbs.twimg.com/profile_images/956882186996662272/lwyH1HFe_400x400.jpg)](https://www.biorxiv.org/content/early/2018/12/04/487165)
 
 ![map](img/panel1.png)
 
@@ -32,7 +32,7 @@ We discovered 746k variable sites by sequencing 1.8% of the genome in a collecti
 
 The majority of variants is single nucleotide polymorphisms (SNP), followed multi-nucleotide polymorphisms (MNP) and insertions/deletion (INDEL). A very small fraction of variants is complex combinations of SNP, MNP, and INDEL. QUAL>10 refers to Phred-scaled quality scores.
 
-![map](img/varianttype.png)
+![map](img/varianttype2.png)
 
 ### Population structure of *Capsicum* reveals strong subdivisions with little or no admixiture among species.
 
@@ -54,14 +54,17 @@ We carried out phenotyping of the 220 accessions of *C. annuum* at thirty-eight 
 
 ![Figure 4](img/pepperpheno.png)
 
-**Bulky and large peppers are genetically differnet from small ones **
+**Bulky and large peppers are genetically different from small ones**
 
 Subdivision within *C. annuum* accessions into two clusters is associated with significant differences in  four traits related to fruit size 
 
 ![Figure 5](img/pre-panel4.png)
 
 
-Accessions from *C. annuum* were assigned to genetic clusters determined in the admixture analysis if membership to the cluster was $>$90\%. Of the 38 traits, \textsc{Area}, \textsc{MaximumWidth}, \textsc{WidthMidHeight}, and \textsc{Perimeter} are significantly different between the two genetic clusters (Figure \ref{fig:pheno}c).Fruit size is significantly different between the two genetic clusters, with Cluster 1 having bulkier and larger fruits relative to Cluster 2. This suggests that differences in fruit size in \textit{C. annuum} might be caused by genetic differences. 
+Accessions from *C. annuum* were assigned to genetic clusters determined in the admixture analysis if membership to the cluster was > 90%.
+Of the 38 traits, AREA, MAXIMUMWIDTH, WIDTHMIDHEIGHT, and PERIMETER are significantly different between the two genetic clusters.
+Fruit size is significantly different between the two genetic clusters, with Cluster 1 having bulkier and larger fruits relative
+to Cluster 2. This suggests that differences in fruit size in *C. annuum* might be caused by genetic differences. 
 
 
 ### Genetics of fruit in *C. annuum*.
@@ -107,8 +110,9 @@ c)Predict protein structure for *Langifolia 1-like*.
  
 ![Figure 7](img/panel7.png)
 
-**Allele frequencies at the single nucleotide polymorphism 3:18338614 in *Capsicum* species.**
- Numbers in parentheses indicate haploid sample size.
+**Allele frequencies at the single nucleotide polymorphism 3:18338614 in *Capsicum* species.**  
+
+Numbers in parentheses indicate haploid sample size.
 
 |     Species (n)    | CTC (Leu) | TTC (Phe) |
 |:------------------:|-----------|-----------|
