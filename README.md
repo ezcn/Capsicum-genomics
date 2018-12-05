@@ -1,8 +1,8 @@
 ### The *Capsicum* collection 
 *Capsicum* is one of the major vegetable crops grown world-wide. 
 This website contains information on an exciting project on the genetics of *Capsicum*.  
-### Check the preprint on bioRxiv !!  
-[![logo di biorvix][https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjPxanV4IjfAhUvsKQKHbCJD3EQjRx6BAgBEAU&url=http%3A%2F%2Fwww.enago.com%2Facademy%2Fkr%2Famp%2Fb2j-a-new-submission-route-for-biorxiv&psig=AOvVaw3Q7BtwSmtiZkUDGCxtTXIC&ust=1544101327717898]][https://www.biorxiv.org/content/early/2018/12/04/487165]
+
+[![### Check the preprint on bioRxiv !!](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjPxanV4IjfAhUvsKQKHbCJD3EQjRx6BAgBEAU&url=http%3A%2F%2Fwww.enago.com%2Facademy%2Fkr%2Famp%2Fb2j-a-new-submission-route-for-biorxiv&psig=AOvVaw3Q7BtwSmtiZkUDGCxtTXIC&ust=1544101327717898)](https://www.biorxiv.org/content/early/2018/12/04/487165)
 
 ![map](img/panel1.png)
 
@@ -52,13 +52,13 @@ We carried out phenotyping of the 220 accessions of *C. annuum* at thirty-eight 
 
 **Graphic rapresentation of the phenotypes measured.**
 
-![Figure 4](img/pre-panel4.png)
+![Figure 4](img/pepperpheno.png)
 
 **Bulky and large peppers are genetically differnet from small ones **
 
 Subdivision within *C. annuum* accessions into two clusters is associated with significant differences in  four traits related to fruit size 
 
-![Figure 4](img/pre-panel4.png)
+![Figure 5](img/pre-panel4.png)
 
 
 Accessions from *C. annuum* were assigned to genetic clusters determined in the admixture analysis if membership to the cluster was $>$90\%. Of the 38 traits, \textsc{Area}, \textsc{MaximumWidth}, \textsc{WidthMidHeight}, and \textsc{Perimeter} are significantly different between the two genetic clusters (Figure \ref{fig:pheno}c).Fruit size is significantly different between the two genetic clusters, with Cluster 1 having bulkier and larger fruits relative to Cluster 2. This suggests that differences in fruit size in \textit{C. annuum} might be caused by genetic differences. 
