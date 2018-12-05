@@ -2,12 +2,16 @@
 *Capsicum* is one of the major vegetable crops grown world-wide. 
 This website contains information on an exciting project on the genetics of *Capsicum*.   
 
-**Check the preprint on!**  [![ Check the preprint on bioRxiv !!](img/biorxiv_log.jpg)](https://www.biorxiv.org/content/early/2018/12/04/487165)
+**Check the preprint on!**  
+
+[![ Check the preprint on bioRxiv !!](img/biorxiv_log.jpg)](https://www.biorxiv.org/content/early/2018/12/04/487165)
 
 ![map](img/panel1.png)
 
 
 **Samples Summary**
+
+We discovered 746k variable sites by sequencing 1.8% of the genome in a collection of 373 accessions belonging to 11 *Capsicum* species from 51 countries.
 
 
 |           Species           | # of diploid accessions  |     Type     |
@@ -28,8 +32,7 @@ This website contains information on an exciting project on the genetics of *Cap
 
 
 ### Genomic diversity of the *Capsicum* genus at 746k variable sites.
-We discovered 746k variable sites by sequencing 1.8% of the genome in a collection of 373 accessions belonging to 11 *Capsicum* species from 51 countries. 
-
+ 
 The majority of variants is single nucleotide polymorphisms (SNP), followed multi-nucleotide polymorphisms (MNP) and insertions/deletion (INDEL). A very small fraction of variants is complex combinations of SNP, MNP, and INDEL. QUAL>10 refers to Phred-scaled quality scores.
 
 ![map](img/varianttype2.png)
