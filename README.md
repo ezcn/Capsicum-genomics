@@ -125,4 +125,4 @@ Numbers in parentheses indicate haploid sample size.
 | *C. pubescens (26)*|     0     |     1     |
 
 
-![aa](img/leu4.png) ![arr](img/arrow_d.jpg) ![phe](img/phen4.png)
+![aa](img/leu4.png) ![arr](img/arrow_do.jpg) ![phe](img/phen4.png)
