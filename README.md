@@ -33,7 +33,7 @@ We discovered 746k variable sites by sequencing 1.8% of the genome in a collecti
  
 The majority of variants is single nucleotide polymorphisms (SNP), followed multi-nucleotide polymorphisms (MNP) and insertions/deletion (INDEL). A very small fraction of variants is complex combinations of SNP, MNP, and INDEL. QUAL>10 refers to Phred-scaled quality scores.
 
-![map](img/varianttype3.png)
+![map](img/varianttype4.png)
 
 ### Population structure of *Capsicum* reveals strong subdivisions with little or no admixiture among species.
 
