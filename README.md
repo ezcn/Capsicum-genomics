@@ -43,9 +43,9 @@ The majority of variants is single nucleotide polymorphisms (SNP), followed mult
 
 **Population structure of the *Capsicum* species derived from 746k genome variants**
 
-**(a)**Phylogenetic reconstruction of the relationship between the accessions. With a few exceptions, clusters corrispond to species.
-**(b)**Principal component analysis. The first two components separate the three main domesticated species. The third and the fourth components separate *C. pubescens* and *C. chacoense* between them and from the cluster of domesticated species.
-**(c)**Model based admixture analysis in the hypothesis of seven clusters. With the exceptions of few admixed or misplaced individuals, clusters to corrispond to species and within *C. annuum* is possible to observe two groups with distinct genetic features.
+**(a)** Phylogenetic reconstruction of the relationship between the accessions. With a few exceptions, clusters corrispond to species.
+**(b)** Principal component analysis. The first two components separate the three main domesticated species. The third and the fourth components separate *C. pubescens* and *C. chacoense* between them and from the cluster of domesticated species.
+**(c)** Model based admixture analysis in the hypothesis of seven clusters. With the exceptions of few admixed or misplaced individuals, clusters to corrispond to species and within *C. annuum* is possible to observe two groups with distinct genetic features.
   
 
 ![Figure 3](img/panel3.png)
@@ -76,9 +76,9 @@ to Cluster 2. This suggests that differences in fruit size in *C. annuum* might 
 
 **Results of the genome-wide association anlysis**
 
-**(a)**We identified eight variants at four loci on three chromosomes, significant associated with seven traits. Circles represent association between one genetic variant and one trait. Colors distingish phenotype.
-**(b)**Cluster of phenotype determining whether fruits are pointed or squared.
-**(c)**Cluster of phenotypes determining if fruits are circular or elongated.
+**(a)** We identified eight variants at four loci on three chromosomes, significant associated with seven traits. Circles represent association between one genetic variant and one trait. Colors distingish phenotype.
+**(b)** Cluster of phenotype determining whether fruits are pointed or squared.
+**(c)** Cluster of phenotypes determining if fruits are circular or elongated.
 
 ![Figure 6](img/panel6.png)
 
@@ -109,13 +109,13 @@ to Cluster 2. This suggests that differences in fruit size in *C. annuum* might 
 
 **The *Longifolia 1-like* gene region**
 
-**(a)**Locus zoom plot in a region of ±2Mb surrounding the non-synonymous mutation (3:183386147) in the gene *Longifolia 1-like* (CA03g16080) showing that the 3:183386147 variant is the only one reaching a genome-wide significant thereshold for genetic association in a region containing twenty-six genes. Color gradient indicate linkage desequilibrium mesuared ad r².
-**(b)**The predict genic structure of *Langifolia 1-like* (CA03g16080).
-**(c)**Predict protein structure for *Langifolia 1-like*.
+**(a)** Locus zoom plot in a region of ±2Mb surrounding the non-synonymous mutation (3:183386147) in the gene *Longifolia 1-like* (CA03g16080) showing that the 3:183386147 variant is the only one reaching a genome-wide significant thereshold for genetic association in a region containing twenty-six genes. Color gradient indicate linkage desequilibrium mesuared ad r².
+**(b)** The predict genic structure of *Langifolia 1-like* (CA03g16080).
+**(c)** Predict protein structure for *Langifolia 1-like*.
  
 ![Figure 7](img/panel7.png)
 
-**Allele frequencies at the single nucleotide polymorphism 3:18338614 in *Capsicum* species.**  
+**Allele frequencies at the single nucleotide polymorphism 3:18338614 in *Capsicum* species**  
 
 *Numbers in parentheses indicate haploid sample size.*
 
