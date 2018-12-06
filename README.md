@@ -2,16 +2,15 @@
 *Capsicum* is one of the major vegetable crops grown world-wide. 
 This website contains information on an exciting project on the genetics of *Capsicum*.   
 
-**Check the preprint on!**  
+**Check the preprint on**  
 
-[![ Check the preprint on bioRxiv !!](img/biorxiv_log.jpg)](https://www.biorxiv.org/content/early/2018/12/04/487165)
+[![ Check the preprint on bioRxiv !!](img/biorxiv_log1.jpg)](https://www.biorxiv.org/content/early/2018/12/04/487165)
 
 ![map](img/panel1.png)
 
 
 **Samples Summary**
 
-We discovered 746k variable sites by sequencing 1.8% of the genome in a collection of 373 accessions belonging to 11 *Capsicum* species from 51 countries.
 
 
 |           Species           | # of diploid accessions  |     Type     |
@@ -29,13 +28,18 @@ We discovered 746k variable sites by sequencing 1.8% of the genome in a collecti
 |         *C.eximium*         |             1            |     wild     |
 
 
-
-
 ### Genomic diversity of the *Capsicum* genus at 746k variable sites.
- 
-The majority of variants is single nucleotide polymorphisms (SNP), followed multi-nucleotide polymorphisms (MNP) and insertions/deletion (INDEL). A very small fraction of variants is complex combinations of SNP, MNP, and INDEL. QUAL>10 refers to Phred-scaled quality scores.
+<img align="left" src="img/varianttype4.png"> 
 
-![map](img/varianttype2.png)
+We discovered 746k variable sites by sequencing 1.8% of the genome in a collection of 373 accessions belonging to 11 *Capsicum* species from 51 countries.
+ 
+The majority of variants is single nucleotide polymorphisms (SNP), followed multi-nucleotide polymorphisms (MNP) and insertions/deletion (INDEL). A very small fraction of variants is complex combinations of SNP, MNP, and INDEL. QUAL>10 refers to Phred-scaled quality scores.  
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ### Population structure of *Capsicum* reveals strong subdivisions with little or no admixiture among species.
 
@@ -125,3 +129,6 @@ Numbers in parentheses indicate haploid sample size.
 | *C. baccatum (72)* |     0     |     1     |
 | *C. chacoense (26)*|     0     |     1     |
 | *C. pubescens (26)*|     0     |     1     |
+
+
+![aa](img/leu4.png) ![arr](img/arrow_do.jpg) ![phe](img/phen4.png)

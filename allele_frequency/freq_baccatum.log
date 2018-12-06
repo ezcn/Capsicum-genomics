@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /home/popgen/capsicum/data/pepperGBS.Q10.phased.vcf.gz
+	--keep /home/popgen/capsicum/data/list.species.baccatum
+	--freq
+	--out freq_baccatum
+
+Using zlib version: 1.2.11
+Keeping individuals in 'keep' list
+After filtering, kept 39 out of 379 Individuals
+Outputting Frequency Statistics...
+After filtering, kept 746450 out of a possible 746450 Sites
+Run Time = 52.00 seconds
