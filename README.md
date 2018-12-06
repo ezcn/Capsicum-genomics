@@ -2,7 +2,7 @@
 *Capsicum* is one of the major vegetable crops grown world-wide. 
 This website contains information on an exciting project on the genetics of *Capsicum*.   
 
-**Check the preprint on!**  
+**Check the preprint on**  
 
 [![ Check the preprint on bioRxiv !!](img/biorxiv_log1.jpg)](https://www.biorxiv.org/content/early/2018/12/04/487165)
 
@@ -125,4 +125,4 @@ Numbers in parentheses indicate haploid sample size.
 | *C. pubescens (26)*|     0     |     1     |
 
 
-![aa](img/leu3.png) ![arr](img/arrow.jpg) ![phe](img/phen3.png)
+![aa](img/leu4.png) ![arr](img/arrow_d.jpg) ![phe](img/phen4.png)
