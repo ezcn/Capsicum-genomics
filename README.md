@@ -4,7 +4,7 @@ This website contains information on an exciting project on the genetics of *Cap
 
 **Check the preprint on**  
 
-[![ Check the preprint on bioRxiv !!](img/biorxiv_log1.jpg)](https://www.biorxiv.org/content/early/2018/12/04/487165)
+[![ Check the preprint on bioRxiv !!](img/biorxiv_log1.jpg)](http://biorxiv.org/cgi/content/short/487165v2)
 
 ![map](img/panel1.png)
 
@@ -28,31 +28,29 @@ This website contains information on an exciting project on the genetics of *Cap
 |         *C.eximium*         |             1            |     wild     |
 
 
-### Genomic diversity of the *Capsicum* genus at 746k variable sites.
+### Genomic diversity of the *Capsicum* genus at 746k variable sites
 <img align="left" src="img/varianttype4.png"> 
 
 We discovered 746k variable sites by sequencing 1.8% of the genome in a collection of 373 accessions belonging to 11 *Capsicum* species from 51 countries.
  
 The majority of variants is single nucleotide polymorphisms (SNP), followed multi-nucleotide polymorphisms (MNP) and insertions/deletion (INDEL). A very small fraction of variants is complex combinations of SNP, MNP, and INDEL. QUAL>10 refers to Phred-scaled quality scores.  
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
-### Population structure of *Capsicum* reveals strong subdivisions with little or no admixiture among species.
 
-**Population structure of the *Capsicum* species derived from 746k genome variants.**
 
-a)Phylogenetic reconstruction of the relationship between the accessions. With a few exceptions, clusters corrispond to species.
-b)Principal component analysis. The first two components separate the three main domesticated species. The third and the fourth components separate *C. pubescens* and *C. chacoense* between them and from the cluster of domesticated species.
-c)Model based admixture analysis in the hypothesis of seven clusters. With the exceptions of few admixed or misplaced individuals, clusters to corrispond to species and within *C. annuum* is possible to observe two groups with distinct genetic features.
+
+
+### Population structure of *Capsicum* reveals strong subdivisions with little or no admixiture among species
+
+**Population structure of the *Capsicum* species derived from 746k genome variants**
+
+**(a)** Phylogenetic reconstruction of the relationship between the accessions. With a few exceptions, clusters corrispond to species.
+**(b)** Principal component analysis. The first two components separate the three main domesticated species. The third and the fourth components separate *C. pubescens* and *C. chacoense* between them and from the cluster of domesticated species.
+**(c)** Model based admixture analysis in the hypothesis of seven clusters. With the exceptions of few admixed or misplaced individuals, clusters to corrispond to species and within *C. annuum* is possible to observe two groups with distinct genetic features.
   
 
 ![Figure 3](img/panel3.png)
 
-### Insight into *C. annuum* fruit variability from high resolution phenotyping.
+### Insight into *C. annuum* fruit variability from high resolution phenotyping
 
 Fruits broad variability has been driven by breeding programs and has been mainly studied by linkage analysis. 
 We carried out phenotyping of the 220 accessions of *C. annuum* at thirty-eight phenotypic traits, in order to describe and understand the range of variation of *C. annum* fruits.
@@ -74,20 +72,20 @@ Fruit size is significantly different between the two genetic clusters, with Clu
 to Cluster 2. This suggests that differences in fruit size in *C. annuum* might be caused by genetic differences. 
 
 
-### Genetics of fruit in *C. annuum*.
+### Genetics of fruit in *C. annuum*
 
-**Results of the genome-wide association anlysis.**
+**Results of the genome-wide association anlysis**
 
-a)We identified eight variants at four loci on three chromosomes, significant associated with seven traits. Circles represent association between one genetic variant and one trait. Colors distingish phenotype.
-b)Cluster of phenotype determining whether fruits are pointed or squared.
-c)Cluster of phenotypes determining if fruits are circular or elongated.
+**(a)** We identified eight variants at four loci on three chromosomes, significant associated with seven traits. Circles represent association between one genetic variant and one trait. Colors distingish phenotype.
+**(b)** Cluster of phenotype determining whether fruits are pointed or squared.
+**(c)** Cluster of phenotypes determining if fruits are circular or elongated.
 
 ![Figure 6](img/panel6.png)
 
 
-**Loci significantly associated with phenotypes related to fruit shape with genome-wide significance.**
+**Loci significantly associated with phenotypes related to fruit shape with genome-wide significance**
 
-Min/Maj = minor and major alleles; MAF = Minor Allele Frequency; β = Coefficient describing the effect size of the marker in the univariate linear model of association; SE = Standard Error of β; p-value = genome-wide Bonferroni corrected p-value for association.   
+*Min/Maj = minor and major alleles; MAF = Minor Allele Frequency; β = Coefficient describing the effect size of the marker in the univariate linear model of association; SE = Standard Error of β; p-value = genome-wide Bonferroni corrected p-value for association.*   
 
 | Chr:position | Genomic region |          Nearest gene (kb)         | Min/Maj Alleles |  MAF |           Phenotype          |   β   |   SE  |  p-value |
 |:------------:|:--------------:|:----------------------------------:|:---------------:|:----:|:----------------------------:|:-----:|:-----:|:--------:|
@@ -109,17 +107,17 @@ Min/Maj = minor and major alleles; MAF = Minor Allele Frequency; β = Coefficien
 
 ### A non-synonymous change in the *Longifolia 1-like* gene is associated with variance in *C. annuum* fruit elongation
 
-**The *Longifolia 1-like* gene region.**
+**The *Longifolia 1-like* gene region**
 
-a)Locus zoom plot in a region of ±2Mb surrounding the non-synonymous mutation (3:183386147) in the gene *Longifolia 1-like* (CA03g16080) showing that the 3:183386147 variant is the only one reaching a genome-wide significant thereshold for genetic association in a region containing twenty-six genes. Color gradient indicate linkage desequilibrium mesuared ad r².
-b)The predict genic structure of *Langifolia 1-like* (CA03g16080).
-c)Predict protein structure for *Langifolia 1-like*.
+**(a)** Locus zoom plot in a region of ±2Mb surrounding the non-synonymous mutation (3:183386147) in the gene *Longifolia 1-like* (CA03g16080) showing that the 3:183386147 variant is the only one reaching a genome-wide significant thereshold for genetic association in a region containing twenty-six genes. Color gradient indicates linkage desequilibrium mesuared ad r².
+**(b)** The predicted gene structure of *Langifolia 1-like* (CA03g16080).
+**(c)** Predicted protein structure for *Langifolia 1-like*.
  
 ![Figure 7](img/panel7.png)
 
-**Allele frequencies at the single nucleotide polymorphism 3:18338614 in *Capsicum* species.**  
+**Allele frequencies at the single nucleotide polymorphism 3:18338614 in *Capsicum* species**  
 
-Numbers in parentheses indicate haploid sample size.
+*Numbers in parentheses indicate haploid sample size.*
 
 |     Species (n)    | CTC (Leu) | TTC (Phe) |
 |:------------------:|-----------|-----------|
