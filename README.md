@@ -109,9 +109,9 @@ to Cluster 2. This suggests that differences in fruit size in *C. annuum* might 
 
 **The *Longifolia 1-like* gene region**
 
-**(a)** Locus zoom plot in a region of ±2Mb surrounding the non-synonymous mutation (3:183386147) in the gene *Longifolia 1-like* (CA03g16080) showing that the 3:183386147 variant is the only one reaching a genome-wide significant thereshold for genetic association in a region containing twenty-six genes. Color gradient indicate linkage desequilibrium mesuared ad r².
-**(b)** The predict genic structure of *Langifolia 1-like* (CA03g16080).
-**(c)** Predict protein structure for *Langifolia 1-like*.
+**(a)** Locus zoom plot in a region of ±2Mb surrounding the non-synonymous mutation (3:183386147) in the gene *Longifolia 1-like* (CA03g16080) showing that the 3:183386147 variant is the only one reaching a genome-wide significant thereshold for genetic association in a region containing twenty-six genes. Color gradient indicates linkage desequilibrium mesuared ad r².
+**(b)** The predicted gene structure of *Langifolia 1-like* (CA03g16080).
+**(c)** Predicted protein structure for *Langifolia 1-like*.
  
 ![Figure 7](img/panel7.png)
 
